@@ -1,2 +1,2 @@
-# https://boetsxd.github.io/inneruniversity.giithub.io/
+# https://boetsxd.github.io/inneruniversity/
 Meu site do projeto
